@@ -1,0 +1,1 @@
+Mello is a Trello Clone used to help project teams collaborate and keep on task.
